@@ -1,1 +1,1 @@
-Thanks for the template code of Jon Barron's public academic website: https://jonbarron.info/.
+Thanks for the template from Jon Barron's public academic website: https://jonbarron.info/.
