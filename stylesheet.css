@@ -133,3 +133,11 @@ h2 {
 span.highlight {
   background-color: #ffffd0;
 }
+
+.scale-img{
+  transition: all 0.15s linear;
+}
+.scale-img:hover{
+  transform: scale(3);
+  transition: all 0.15s linear;
+}
