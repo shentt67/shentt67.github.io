@@ -141,3 +141,9 @@ span.highlight {
   transform: scale(3);
   transition: all 0.15s linear;
 }
+hr {
+  border: 0;
+  height: 1px;
+  background: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0));
+  margin: 1.5rem 0; 
+}
